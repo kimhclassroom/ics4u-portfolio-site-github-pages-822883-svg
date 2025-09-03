@@ -1,9 +1,9 @@
-# Hi, I'm <Your Name>
+# Hi, I'm Saket
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
-- 🧠 Concept I learned: *(short note)*
+- 🧠 Concept I learned:I have primarily learned how to use the basic functions of java and the logic behind the basics. 
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 - [Reflection #2](./posts/Second.md).
 

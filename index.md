@@ -5,9 +5,11 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 🔧 Project 1: *(title)* – *(1–2 lines about what it does)*
 - 🧠 Concept I learned: *(short note)*
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
+- [Reflection #2](./posts/Second.md).
 
 ## About me
 A short intro (interests, goals, tools I’m learning).
-
+-I am a determined indiviual who enjoys the psycologiacl thriller genre and the genre of future speculation. I will be use gitHub to perform the assignments and evaluations. I am a gun nerd and I love 
+to learn about the history of weaopnry.  I have done coding for 1 year and I probably have progressed to a intermediate level. I hopefully can get into Wilfred Laurier or TMU for accounting or finance. I have a passion for money and the influence it has over the entire world. I also like cooking and learning new things to cook. 
 ---
 *Update this page by editing `index.md` in your repository.*

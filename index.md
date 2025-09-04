@@ -8,6 +8,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - [Reflection #2](./posts/Second.md).
 
 ## About me
+[About Me](./posts/AboutMe.md)
 A short intro (interests, goals, tools I’m learning).
 -I am a determined indiviual who enjoys the psycological thriller genre and the genre of future speculation. I will be use gitHub to perform the assignments and evaluations. I am a gun nerd and I love 
 to learn about the history of weaoponry.  I have done coding for 1 year and I probably have progressed to a intermediate level. I hopefully can get into Wilfred Laurier or TMU for accounting or finance.

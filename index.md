@@ -2,7 +2,7 @@
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
-- 🔧 Project 1: The portfolio site: It will be used to 
+- 🔧 Project 1: The portfolio site --> It will be used to record my time is this computer science course. 
 - 🧠 Concept I learned:I have primarily learned how to use the basic functions of java and the logic behind the basics. 
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 - [Reflection #2](./posts/Second.md).
